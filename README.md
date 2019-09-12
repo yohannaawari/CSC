@@ -1,9 +1,9 @@
-# CSC
-#JAVA Script Assigment
-#Dauda Yohanna Awari
-#UJ/2016/NS/0681
+## CSC
+## JAVA Script Assigment
+## Dauda Yohanna Awari
+## UJ/2016/NS/0681
 
-#Explain DOM.
+## Explain DOM.
 
 DOM stands for Document Object Model which is created when the browsers creates a Document Object Model of the page constructed in a form of a tree of objects.
 
